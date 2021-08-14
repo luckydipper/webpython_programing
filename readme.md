@@ -1,5 +1,5 @@
 # 처음 하는 프로젝트 Eye Tracker 입니다.
-설명        : 사용자로 부터 양안의의 좌표(x1, y1, x2, y2 데이터)를 가져와서, 실제 물체가 떨어진 거리 (z 데이터)를 선형회귀(최소제곱근사 least square estimation)합니다. <br>
+설명        : 사용자로 부터 양안의의 좌표(x1, y1, x2, y2 데이터)를 가져와서, 실제 물체가 떨어진 거리 (z 데이터)를 선형회귀(최소자승법 OLS, Ordinary least square)합니다. <br>
 description : Get Coordinate of two eyes(x1, y1, x2, y2) in picture, and linear regression to distance(z) <br>
 ![개요설명](photograph/그림%20설명.jpg)
 <br>
